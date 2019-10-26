@@ -1,4 +1,4 @@
-package com.zn.cn;
+package com.zn.cn.fizzbuzz;
 
 /**
  * Created by zn on 2019/10/20.

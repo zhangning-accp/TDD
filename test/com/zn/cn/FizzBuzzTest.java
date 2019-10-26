@@ -1,5 +1,6 @@
 package com.zn.cn;
 
+import com.zn.cn.fizzbuzz.FizzBuzz;
 import junit.framework.TestCase;
 import org.junit.Test;
 
